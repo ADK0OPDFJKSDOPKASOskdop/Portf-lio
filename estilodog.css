@@ -1,0 +1,175 @@
+body {background-image: linear-gradient(to bottom, black, #663333, #cfcfcf);
+		width: auto;
+		height: auto;
+		
+
+		margin: 0;
+		width: auto; 
+}
+.bot1 {height: 45px;
+		width: 70px;
+		border: 1px solid #a6348d;
+		margin-top: -50px;
+		margin-left: 200px;
+}
+.galeria {	background-image: url("https://kenmcnabb.com/wp-content/uploads/2015/07/Background.jpg");
+			height: auto;
+			width: 1000px;
+			margin: auto;
+			
+
+
+
+}
+.imgal	{height: 200px;
+			width: 250px;
+			position: relative;
+			padding-right: 20px;
+			margin-left: 55px;
+			padding-top: 20px;
+
+
+
+
+}
+img:hover {width: 250px;
+			height: 250px;
+			border-radius: 70px;
+			transition: 1s;
+
+}
+
+
+.informa {  height: 650px;
+			width: 1000px;
+			background-image: linear-gradient(to bottom, black, #663333, #cfcfcf);
+			
+			
+
+			margin: auto;
+
+}
+
+
+#container { width: auto;
+			 height: 900px;
+			 background-image: linear-gradient(to top, black, #663333, #cfcfcf);
+			 border: 0px solid red;
+			 margin: auto;
+			 background-color: gradient 80%;
+
+
+
+}
+#bemvindo { font-family: Baskerville Old Face;
+			margin: auto;
+			margin-left: 44%;
+
+}
+.folder1{ background-image: url("https://www.lashop.com/media/catalog/category/chien-1500x250px.jpg");
+			margin: 0px;
+			padding: 0px;
+			width: auto;
+			height: 250px;
+			background-repeat: no-repeat;
+		/*	margin: auto;
+			margin-top: 8%;
+*/
+}
+.agr {  background-image: url("https://kenmcnabb.com/wp-content/uploads/2015/07/Background.jpg");
+		width: auto;
+		height: auto;
+		margin: 0px;
+		padding: 0px;
+		position: relative;
+	/*	margin: auto;
+		margin-top:auto; 
+		margin-left: 14%
+*/ Duvida
+}
+.a1 {font-family: baskerville old face;
+	color: white;
+
+
+}
+
+.bot {	width: 100px;
+		height: 50px;
+		border-radius: 30px;
+		background-color: #663333;
+		margin: auto;
+		margin-right: 1%;
+		margin-top: 24%;
+
+}
+#letbt {font-family: Baskerville Old Face;
+		color: white;
+		text-align: center;
+		text-transform: uppercase;
+		
+		font-size: 20px;
+
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #331a1a;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Baskerville Old Face;
+}
+
+li a:hover {
+  background-color: black;
+}
+
+.bots {	width: 100px;
+		height: 50px;
+		border-radius: 30px;
+		background-color: #663333;
+		margin: auto;
+		margin-right: 1%;
+		margin-top: 0%;
+		float: bottom
+
+}
+
+#letbt2 {font-family: Baskerville Old Face;
+		color: white;
+		text-align: center;
+		text-transform: uppercase;
+		
+		font-size: 20px;
+
+}
+.folder2 {background-image: url("https://www.lashop.com/media/catalog/category/chien-1500x250px.jpg");
+		  background-repeat: no-repeat;
+		  margin: 0px;
+		  padding: 0px;
+		  width: auto;
+		  height: 200px;
+
+}
+.texto {font-family: baskervilee old face;
+		text-align: center;
+		font-size: 25px;
+		color: white;
+
+
+
+
+}
+
